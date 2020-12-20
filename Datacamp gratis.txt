@@ -1,0 +1,6 @@
+FYI akses gratis semua course datacamp menggunakan voucher dari visual studio
+
+1) buat akun dan login ke datacamp (https://www.datacamp.com)
+2) ambil voucher gratis, buat akun dan login ke akun microsoft / visual studio (https://my.visualstudio.com/Benefits)
+
+note: akses gratis selama 2 bulan, setelah 2 bulan bisa ambil voucher gratis lagi di visual studio (https://my.visualstudio.com/Benefits)
